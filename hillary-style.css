@@ -1,0 +1,69 @@
+/***** OVERALL STYLING ****/
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+ body {
+   font-family: Georgia;
+   color: #555a5e;
+   margin: 0px;
+   padding: 0px;
+   background: #d0d5d8;
+ }
+
+ /****** PAGE HEADER *******/
+ header {
+   background-color: #526a7c;
+   color: #ffffff;
+   margin-top: 0px;
+   height: 60px;
+   text-align: center;
+ }
+
+ header h1 {
+   margin: 0 auto;
+   padding-top: 10px;
+
+ }
+
+ h2 {
+   margin-left: 20px;
+   font-weight: 200;
+ }
+
+ /****** CONTENT *********/
+ .content-div {
+   width: 900px;
+   margin: 30px auto;
+ }
+
+ .main-div {
+   width: 500px;
+   float: left;
+   background: #fff;
+ }
+
+ .main-div img {
+   float: left;
+   height: 200px;
+   padding: 0 20px;
+ }
+
+ .main-div p {
+   line-height: 150%;
+   padding: 0 20px;
+ }
+
+
+
+/****** CONTACT *****/
+ .contact-info {
+   width: 300px;
+   float: left;
+   margin-left: 70px;
+   background: #fff;
+ }
