@@ -1,3 +1,11 @@
-.Profile {
-  
+body {
+  margin:0px;
+}
+
+.home-background {
+  background: grey;
+}
+
+.navbar {
+  background-color: green;
 }
