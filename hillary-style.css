@@ -22,6 +22,7 @@ html {
    margin-top: 0px;
    height: 60px;
    text-align: center;
+   border-bottom: 3px solid #fff;
  }
 
  header h1 {
@@ -45,6 +46,7 @@ html {
    width: 500px;
    float: left;
    background: #fff;
+   border: 2px solid #555a5e;
  }
 
  .main-div img {
@@ -66,4 +68,13 @@ html {
    float: left;
    margin-left: 70px;
    background: #fff;
+   border: 2px solid #555a5e;
+ }
+
+ .contact-info a {
+   color: #555a5e;
+ }
+
+ .contact-info a:hover {
+   font-weight: bold;
  }
