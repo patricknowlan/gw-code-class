@@ -1,0 +1,16 @@
+nav {
+  border-style:double
+}
+
+.list nav{ 
+	background-color: coral;
+ }
+
+body {
+	background-color: gold;
+	margin: 10px red;
+}
+
+.article {
+	background-color: grey;
+} 
