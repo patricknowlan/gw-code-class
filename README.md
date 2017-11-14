@@ -1,2 +1,1 @@
-# gw-code-class
-awesome class directory
+# student-bio
