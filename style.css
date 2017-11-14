@@ -1,11 +1,41 @@
-body {
-  margin:0px;
+.header {
+position: fixed;
+top: 0;
+left: 0;
+background-color: #134faf;
+width: 100%;
+height: 85px;
+border-bottom: 2px solid #1f2938;
+color: #f43900;
 }
 
-.home-background {
-  background: grey;
+.headerText {
+padding-left: 5px;
+color: #f43900;
+}
+.contentContainer {
+  position: fixed;
+  top: 87px;
+  left: 0px;
+  background-color: grey;
+  padding-left: 5px;
 }
 
-.navbar {
-  background-color: green;
+.about {
+margin-top: 20px;
+}
+
+.contact {
+
+}
+
+.listItem {
+font-style: italic;
+color: blue
+}
+
+.image {
+  padding-right: 5px;
+  padding-left: 5px;
+  float: left;
 }
