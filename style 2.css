@@ -1,0 +1,45 @@
+/**
+* Float Layout Activity for Homework 11.18.2017
+**/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#left {
+  float: left;
+  width: 33.3%;
+
+}
+#right {
+  float: left;
+  width; 66.6%;
+
+}
+
+#full {
+  width: 100%;
+  overflow: auto;
+  clear: both;
+}
+
+#division {
+  padding: 20px;
+  margin-top: 20px;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  backgrond: #ccc
+}
